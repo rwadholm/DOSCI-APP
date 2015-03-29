@@ -1,3 +1,3 @@
-# Driver Orientation Screen for Cognitive Impairment Mobile Application
+# Driver Orientation Screen for Cognitive Impairment (DOSCI)
 
-The Driver Orientation Screen for Cognitive Impairment (DOSCI) is used to help screen for cognitive impairment (problems with thinking or memory), which is one part of Medical Fitness to Drive (MFD).
+The DOSCI mobile app is used to help screen for cognitive impairment (problems with thinking or memory), which is one part of medical fitness to drive.
