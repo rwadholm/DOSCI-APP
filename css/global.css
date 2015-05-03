@@ -143,7 +143,7 @@ ul {
 }
 ul li{
 	margin: 10px;
-	list-style-image: url(img/block.gif);
+	list-style-image: url(../img/block.gif);
 	padding-left: 10px;
 }
 #questions {
@@ -187,7 +187,7 @@ ul li{
 #startOver a {
 	text-align: center;
 	display: block;
-	background: url(img/startOver.png) no-repeat left center;
+	background: url(../img/startOver.png) no-repeat left center;
 	text-transform: uppercase;
 	text-decoration: none;
 	color: #000;
