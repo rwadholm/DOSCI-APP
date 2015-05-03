@@ -242,13 +242,13 @@ ul li{
 	display: inline-block;
 	position: absolute;
 	left: -70px;
-	background: url(img/qTrue.png) no-repeat left top;
+	background: url(../img/qTrue.png) no-repeat left top;
 	width: 34px;
 	height: 34px;
 	top: -4px;
 }
 #results ol .qfalse span {
-	background: url(img/qFalse.png) no-repeat left top;
+	background: url(../img/qFalse.png) no-repeat left top;
 		
 }
 #results h3 {
