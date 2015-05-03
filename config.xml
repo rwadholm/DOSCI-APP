@@ -1,0 +1,11 @@
+<widget id="org.invariable.dosci" version="0.0.1">
+    <name>DOSCI</name>
+    <description>
+        The DOSCI mobile app is used to help screen for cognitive impairment (problems with thinking or memory), which is one part of medical fitness to drive.
+    </description>
+    <author email="rwadholm@indiana.edu" href="http://www.invariable.org">
+        Invariable, LLC
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
