@@ -6,7 +6,7 @@ http://www.bob.wadholm.com/licenses.shtml */
 $(function(){
 	var site = $('body').attr('id');
 	removeHover();
-	$.getJSON('/json/'+ site +'.json',function(data){
+	$.getJSON('../json/'+ site +'.json',function(data){
 		var currentPage = '#front',
 		results = {'q1':false,'q2':false,'q3':false,'q4':false,'q5':false,'q6':false,'q7':false,'q8':false,'q9':false};
 		
