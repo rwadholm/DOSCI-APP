@@ -29,12 +29,13 @@ header a {
 	border-radius: 30px;
 	border: 3px solid #fff;
 	color: #fff;
+    font-size: 20px;
 	text-decoration: none;
 	text-transform: uppercase;
 	float: right;
 	background: #000;
 	position: relative;
-	top: 50px;
+	top: 56px;
 	padding: 4px 10px;
 }
 header a#start:hover {
@@ -123,7 +124,7 @@ h3,
 	position: relative;
 	top: -30px;
 	z-index: 1;
-	padding: 60px 10px 40px 10px;
+	padding: 60px 20px 40px 20px;
 }
 #front textarea {
 	-webkit-box-sizing: border-box;
@@ -203,7 +204,7 @@ ul li{
 }
 #results {
 	max-width: 580px;
-	padding: 0 10px;
+	padding: 0 20px;
 	margin: 0 auto;
 }
 #results h2 {
