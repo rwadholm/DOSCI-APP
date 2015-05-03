@@ -3,7 +3,7 @@
     <description>
         The DOSCI mobile app is used to help screen for cognitive impairment (problems with thinking or memory), which is one part of medical fitness to drive.
     </description>
-    <author email="rwadholm@indiana.edu" href="http://www.invariable.org">
+    <author email="rwadholm@indiana.edu" href="http://invariable.org">
         Invariable, LLC
     </author>
     <content src="index.html" />
