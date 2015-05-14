@@ -1,4 +1,4 @@
-<widget id="org.invariable.dosci" version="0.0.2">
+<widget id="org.invariable.dosci" version="0.0.1">
     <name>DOSCI</name>
     <description>
         The DOSCI mobile app is used to help screen for cognitive impairment (problems with thinking or memory), which is one part of medical fitness to drive.
@@ -10,5 +10,4 @@
     <access origin="*" />
     <preference name="Fullscreen" value="true" />
     <preference name="BackgroundColor" value="0xffffffff"/>
-    <preference name="Orientation" value="landscape" />
 </widget>
