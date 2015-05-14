@@ -10,5 +10,8 @@
     <preference name="target-device" value="universal"/>
     <preference name="show-splash-screen-spinner" value="true"/>
     <preference name="auto-hide-splash-screen" value="true"/>
-    <icon src="img/logo.png"/>    
+    <icon src="img/logo.png"/> 
+    <gap:config-file platform="ios" parent="UIViewControllerBasedStatusBarAppearance" overwrite="true">
+        <false/>
+    </gap:config-file>   
 </widget>
