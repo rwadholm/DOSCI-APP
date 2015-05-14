@@ -11,7 +11,5 @@
     <preference name="UIWebViewBounce" value="false" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="target-device" value="universal"/>
-    <preference name="auto-hide-splash-screen" value="true"/>
     <icon src="img/logo.png"/> 
-    <gap:plugin name="org.apache.cordova.splashscreen"/>
 </widget>
