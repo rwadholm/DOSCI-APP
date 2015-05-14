@@ -110,6 +110,7 @@ h3,
 #front p#altP { 
     display:none;  
     margin: 0 6% 20px 6%;
+    border: none;
 }
 #front a.button,
 #questions a{
