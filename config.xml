@@ -8,5 +8,7 @@
     <preference name="permissions" value="none"/>
     <preference name="orientation" value="default"/>
     <preference name="target-device" value="universal"/>
+    <preference name="show-splash-screen-spinner" value="true"/>
+    <preference name="auto-hide-splash-screen" value="true"/>
     <icon src="img/logo.png"/>    
 </widget>
