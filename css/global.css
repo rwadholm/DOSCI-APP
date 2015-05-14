@@ -45,7 +45,9 @@ header a#start:hover {
 header {
 	height: 140px;
 	background: #000;
-	padding: 0px 5%;  
+	padding: 0px 5%; 
+    position: relative;
+    top: 20px;
 }
 #status {    
     border-top: 20px solid #fff;
@@ -93,7 +95,7 @@ h3,
     font-family: 'Open Sans Condensed Light',Arial, san-serif;
     font-weight: 100;
     clear: both;
-    margin: 80px auto 20px auto;
+    margin: 50px auto 20px auto;
 }
 #front p {
 	border: 20px solid #000;
@@ -107,7 +109,7 @@ h3,
 }    
 #front p#altP { 
     display:none;  
-    margin: 0px 6%;
+    margin: 0 6% 20px 0;
 }
 #front a.button,
 #questions a{
