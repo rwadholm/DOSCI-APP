@@ -4,12 +4,16 @@
     <author email="rwadholm@indiana.edu" href="http://invariable.org">Invariable, LLC</author>
     <content src="index.html" />
     <access origin="*" />
-    <preference name="fullscreen" value="true" />
     <preference name="permissions" value="none"/>
-    <preference name="orientation" value="default"/>
+    <preference name="orientation" value="portrait" />
+    <preference name="fullscreen" value="true" />
+    <preference name="StatusBarOverlaysWebview" value="false" />
+    <preference name="webviewbounce" value="false" />
+    <preference name="UIWebViewBounce" value="false" />
+    <preference name="DisallowOverscroll" value="true" />
     <preference name="target-device" value="universal"/>
     <preference name="show-splash-screen-spinner" value="true"/>
     <preference name="auto-hide-splash-screen" value="true"/>
     <icon src="img/logo.png"/> 
-    <gap:plugin name="de.appplant.cordova.plugin.hidden-statusbar-overlay" />   
+    <gap:plugin name="org.apache.cordova.statusbar" />
 </widget>
