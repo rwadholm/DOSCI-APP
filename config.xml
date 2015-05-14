@@ -6,4 +6,9 @@
     <access origin="*" />
     <preference name="permissions" value="none"/>
     <preference name="Fullscreen" value="false" />
+    <preference name="webviewbounce" value="false" />
+    <preference name="UIWebViewBounce" value="false" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="target-device" value="universal"/>
+    <icon src="img/logo.png"/> 
 </widget>
