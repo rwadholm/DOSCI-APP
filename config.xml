@@ -2,8 +2,8 @@
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id = "org.invariable.dosci"
-        version="0.0.1">
-    <name>DOSCI</name>
+        version="0.1.0">
+    <name>DOSCI-MO</name>
     <description>The DOSCI mobile app is used to help screen for cognitive impairment (problems with thinking or memory), which is one part of medical fitness to drive.</description>
     <author email="rwadholm@indiana.edu" href="http://invariable.org">Invariable, LLC</author>
     <content src="index.html" />
