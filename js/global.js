@@ -6,7 +6,7 @@ http://www.bob.wadholm.com/licenses.shtml */
 $(function(){
 	var site = $('body').attr('id');
 	removeHover();
-	var data = {"explanation":["No referral is necessary (regular)","Potentially unsafe to drive<br />Consider totality of circumstances (regular or priority)","PRIORITY - Unsafe to drive<br />","Refer to department procedures for alternative transportation and vehicle removal"]},
+	var data = {"explanation":["No referral is necessary (regular)","Potentially unsafe to drive<br />Consider totality of circumstances (regular or priority)<br />Potentially site and report (see below).","PRIORITY - Unsafe to drive<br />Cite and report (see below).","Refer to department procedures for alternative transportation and vehicle removal"]},
     currentPage = '#front',
     results = {'q1':false,'q2':false,'q3':false,'q4':false,'q5':false,'q6':false,'q7':false,'q8':false,'q9':false};
 
