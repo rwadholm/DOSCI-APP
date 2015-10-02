@@ -2,7 +2,7 @@
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id = "org.invariable.dosci"
-        version="0.1.0">
+        version="0.1.1">
     <name>DOSCI for MO</name>
     <description>The Driver Orientation Screen for Cognitive Impairment - Missouri (DOSCI-MO) is used to help screen for cognitive impairment (problems with thinking or memory), which is one part of Medical Fitness to Drive (MFD). The Missouri version of the DOSCI is based upon the original work by TREDS at UCSD.</description>
     <author email="rwadholm@indiana.edu" href="http://invariable.org">Invariable, LLC</author>
