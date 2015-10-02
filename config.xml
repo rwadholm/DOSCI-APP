@@ -8,7 +8,7 @@
     <author email="rwadholm@indiana.edu" href="http://invariable.org">Invariable, LLC</author>
     <content src="index.html" />
     <access origin="*" />
-    <preference name="phonegap-version" value="cli-5.1.1" />
+    <preference name="phonegap-version" value="cli-5.2.0" />
     <preference name="orientation" value="portrait" />
     <preference name="permissions" value="none"/>
     <preference name="Fullscreen" value="false" />
